@@ -9,10 +9,6 @@
     +----+------+     +----+------+     +----+------+  
 '''
 
-from time import time
-from xml.etree.ElementTree import tostring
-
-
 class Node:
 
     ## Constructor to create a new node
